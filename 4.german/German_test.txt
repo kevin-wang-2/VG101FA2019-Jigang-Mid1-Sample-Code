@@ -1,0 +1,24 @@
+eins 
+zwei 
+drei 
+vier 
+funf 
+sechs 
+sieben 
+acht 
+neun 
+eins null 
+eins eins 
+eins zwei 
+eins drei 
+eins vier 
+eins funf 
+eins sechs 
+eins sieben 
+eins acht 
+eins neun 
+zwei null 
+neun neun 
+neun neun neun 
+neun neun neun neun 
+neun neun neun neun neun 
