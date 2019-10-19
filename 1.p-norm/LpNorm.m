@@ -6,5 +6,5 @@ function ret = LpNorm(x, p)
     % Using .^ operation, we could let all elements in x to be p-th squared.
     % Then, er could use sum function to add them up and take the p-th
     % root of the sum to get the norm. 
-    ret = sum(x .^ p) ^ (1 / p);
+    ret = sum(abs(x) .^ p) ^ (1 / p);
 end
